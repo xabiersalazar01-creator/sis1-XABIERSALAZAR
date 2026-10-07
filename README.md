@@ -4,7 +4,7 @@ Materials for the Signals and Systems I course at the UPF, including assignments
 To install the materials, create a virtual environment and install the dependencies.
 On Mac/Linux this will be:
 
-    python -m venv .venv
+    python3 -m venv .venv
     source .venv/bin/activate
     pip install -r requirements.txt
 
